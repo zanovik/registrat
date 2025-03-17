@@ -21,9 +21,12 @@ body {
 	border-radius: 10px;
 	background-color: #BCBCBC;
 
-	width: 400px;
+	
 	margin-top: 50px;
+	width: 100%;
+
 }
+
 .enter {text-align: center;
 	color: white;
 	margin-top: 100px;
@@ -37,17 +40,12 @@ body {
 	border: none;
 	border-radius: 10px;
 	background-color: #BCBCBC;
-	margin-right: 100%;
-	width: 270px;
+	width: 100%;
+
 	margin-top: 50px;
 
 }
-.birth-box {
-	padding: 0 30%;
-	width: 34%;
 
-
-}
 
 .txt-mail {
 
@@ -58,12 +56,12 @@ body {
 	border-radius: 10px;
 	background-color: #BCBCBC;
 	
-	width: 720px;
+	width: 100%;
 	margin-top: 50px;
 }
 .mail-box {
 	padding: 0 30%;
-	width: 44%;
+
 
 }
 
@@ -75,21 +73,58 @@ body {
 	border-radius: 10px;
 	background-color: #BCBCBC;
 	
-	width: 720px;
+	width: 100%;
 	margin-top: 50px;
 }
 .phone-box {
 	padding: 0 30%;
-	width: 44%;
+
 }
 .grid {
 	display: grid;
-	grid-template-columns: 1fr 1fr ;
-	grid-gap: 10px;
+	grid-template-columns: 1.5fr 1fr ;
+	grid-gap: 50px;
 	padding: 0 30%;
-	width: 55%;
+	
 	
 }
+.grid2 {
+	display: grid;
+	grid-template-columns: 1fr 1.5fr ;
+	grid-gap: 50px;
+	padding: 0 30%;
+	
+	
+}
+.txt-back {
+	font-size: 20px;
+	padding: 10px;
+	padding-left: 20px;
+	border: none;
+	border-radius: 10px;
+	background-color: #BCBCBC;
+
+	
+	margin-top: 50px;
+	width: 100%;
+
+}
+.txt-go {
+	font-size: 20px;
+	padding: 10px;
+	padding-left: 20px;
+	border: none;
+	border-radius: 10px;
+	background-color:#269926;
+	width: 100%;
+	color: white;
+
+	margin-top: 50px;
+
+}
+
+
+
 
 
 

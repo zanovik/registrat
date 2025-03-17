@@ -49,34 +49,50 @@ body {
 
 .txt-mail {
 
+
 	font-size: 20px;
-	padding: 10px;
-	padding-left: 20px;
-	border: none;
-	border-radius: 10px;
 	background-color: #BCBCBC;
-	
+	border: none;
 	width: 100%;
-	margin-top: 50px;
+
 }
 .mail-box {
-	padding: 0 30%;
+	
+	padding: 10px;
+	padding-left: 20px;
+	
+	border-radius: 10px;
+	background-color: #BCBCBC;
+		margin-top: 50px;
 
+
+}
+.div-boxmail {
+	padding: 0 30%;
 
 }
 
 .phone-txt {
 	font-size: 20px;
-	padding: 10px;
-	padding-left: 20px;
+	
 	border: none;
-	border-radius: 10px;
+	
 	background-color: #BCBCBC;
 	
 	width: 100%;
-	margin-top: 50px;
+	
 }
 .phone-box {
+	padding: 10px;
+	padding-left: 20px;
+	
+	border-radius: 10px;
+	background-color: #BCBCBC;
+		margin-top: 50px;
+
+	
+}
+.div-boxphone {
 	padding: 0 30%;
 
 }
@@ -96,36 +112,29 @@ body {
 	
 	
 }
-.txt-back {
+.btn-back {border-radius: 10px;
+	background-color: #BCBCBC;
+	
+	width: 100%;
+	margin-top: 50px;
 	font-size: 20px;
 	padding: 10px;
 	padding-left: 20px;
 	border: none;
-	border-radius: 10px;
-	background-color: #BCBCBC;
-
-	
-	margin-top: 50px;
-	width: 100%;
+	color: #696969;
 
 }
-.txt-go {
-	font-size: 20px;
-	padding: 10px;
-	padding-left: 20px;
-	border: none;
-	border-radius: 10px;
-	background-color:#269926;
+.btn-go {border-radius: 10px;
+	background-color: #259238;
+	
 	width: 100%;
 	color: white;
-
 	margin-top: 50px;
-
+	font-size: 20px;
+	padding: 10px;
+	padding-left: 20px;
+	border: none;
 }
-
-
-
-
 
 
 
